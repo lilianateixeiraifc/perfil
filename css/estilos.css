@@ -1,0 +1,60 @@
+ :root{--cor-fundo: #66545e;
+       --cor-titulo: #aa6f73;
+       --cor-paragrafo:#f6e0b5;
+       --cor-link:#b967ff;
+       --fonte: Koulen, Verdana;
+
+
+
+ }
+
+ body {
+    background-color: rgb(182, 231, 227);
+    font-family: Impact, Haettenschweiler;
+    width: 600px;
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: rgb(170, 52, 91);
+
+}
+
+p {
+    color: #da9f9f;
+    font-family: Verdana;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    border-width: 9px;
+    border-color: black;
+    border-style: double;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    
+}
+
+ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+ul li a {
+    color: rgb(241, 150, 188);
+    font-size: 25px;
+}
+
+div.imagem {
+    text-align: center;
+}
+
+
